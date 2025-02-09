@@ -25,7 +25,8 @@
   <a href = "mailto:pedro.igor10@live.comm"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-almeida-6aa80a116" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/pedroigoor/pedroigoor/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/pedroigoor/pedroigoor/blob/main/github-contribution-grid-snake.svg)
+
  
 </div>
 
