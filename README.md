@@ -71,7 +71,7 @@ Sou Pedro Almeida, desenvolvedor Full Stack, apaixonado por transformar ideias e
 </div>
 
 ---
-
+<!--
 ## 🧩 Estatísticas (opcional)
 
 <div align="center">
@@ -81,6 +81,6 @@ Sou Pedro Almeida, desenvolvedor Full Stack, apaixonado por transformar ideias e
 
 ---
 
-<p align="center">
+ <p align="center">
   Feito com 💙, café ☕ e muita curiosidade.
-</p>
+</p> -->
