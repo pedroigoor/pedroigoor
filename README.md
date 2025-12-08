@@ -5,11 +5,17 @@
 
 Sou Pedro Almeida, desenvolvedor Full Stack, apaixonado por transformar ideias em soluções reais — sempre com precisão, arquitetura limpa e aquele toque futurista.
 
+
+
 🧠 Tech Stack
 
 Onde a mágica acontece:
 
+
 <div style="display: flex; gap: 12px;"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> </div>
+
+
+
 
 
 🔥 Sobre mim
