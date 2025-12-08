@@ -15,9 +15,13 @@ Onde a mágica acontece:
 🔥 Sobre mim
 
 > 🧩 Amo resolver problemas difíceis com soluções simples
+> 
 > 🏗️ Apaixonado por arquitetura limpa e APIs escaláveis
+> 
 > ⚙️ Full Stack com foco atual em C#, TypeScript, Angular
+> 
 > 🎓 Sempre estudando algo novo (e quebrando algo no processo 👀)
+> 
 > 🚀 Meu objetivo: evoluir como dev, construir produtos reais e contribuir com a comunidade
 
 
