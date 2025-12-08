@@ -1,6 +1,6 @@
 🚀 Pedro Almeida | Full Stack Developer
 
-<img src="https://github.com/pedroigoor/pedroigoor/blob/main/banner.png" width="100%" />
+<!-- <img src="https://github.com/pedroigoor/pedroigoor/blob/main/banner.png" width="100%" /> -->
 👾 Bem-vindo ao meu universo de código!
 
 Sou Pedro Almeida, desenvolvedor Full Stack, apaixonado por transformar ideias em soluções reais — sempre com precisão, arquitetura limpa e aquele toque futurista.
